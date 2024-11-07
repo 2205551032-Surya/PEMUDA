@@ -8,14 +8,15 @@ EduSign is built as a requirement for Bangkit 2023's Product-based Capstone Proj
 
 ### Team Members
 
-| Member                     | Student ID     | Path                | Contacts                    |
-|----------------------------|----------------|---------------------|-----------------------------|
-| Achmad Rifiq Ulumuddi     | M166DX3107     | Machine Learning     | [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/) |
-| Wildan Mufid Ramadhan      | M151DX3117     | Machine Learning     | [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/) |
-| Muhammad Dzikri Rahmanyan  | A151DX1191     | Mobile Development   | [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/) |
-| Moch. Rify Misbachun      | A151DX1067     | Mobile Development   | [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/) |
-| Akhtar Alfarsi Siryanto    | C132DX4457     | Cloud Computing      | [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/) |
-| Muhammad Fahrinda Luthfi    | C312DX4654     | Cloud Computing      | [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/) |
+| Member                        | Student ID      | Path                | Contacts                    |
+|-------------------------------|-----------------|---------------------|-----------------------------|
+| I Gede Made Rapriananta Pande | M014B4KY1814    | Machine Learning     | [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/) |
+| I Gede Satya Ariya Putra Sangjaya | M014B4KY1817 | Machine Learning     | [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/) |
+| Syelvia Julianti             | M014B4KX4269    | Machine Learning     | [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/) |
+| I Putu Gede Surya Pratama    | C014B4KY1879    | Cloud Computing      | [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/) |
+| Ni Putu Sri Indah Damayanti   | C014B4KX3350    | Cloud Computing      | [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/) |
+| Athaya Juliant Purnama       | A014B4KY0709    | Mobile Development   | [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/) |
+| Adriant Satrio Putra         | A014B4KY0135    | Mobile Development   | [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/) |
 
 ### Repositories of all the Cohorts
 
