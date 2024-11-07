@@ -10,8 +10,8 @@ EduSign is built as a requirement for Bangkit 2023's Product-based Capstone Proj
 
 | Member                        | Student ID      | Path                | Contacts                    |
 |-------------------------------|-----------------|---------------------|-----------------------------|
-| I Gede Made Rapriananta Pande | M014B4KY1814    | Machine Learning     | [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/) |
-| I Gede Satya Ariya Putra Sangjaya | M014B4KY1817 | Machine Learning     | [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/) |
+| I Gede Satya Ariya Putra Sangjaya | M014B4KY1814    | Machine Learning     | [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/) |
+| I Gede Made Rapriananta Pande | M014B4KY1817 | Machine Learning     | [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/) |
 | Syelvia Julianti             | M014B4KX4269    | Machine Learning     | [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/) |
 | I Putu Gede Surya Pratama    | C014B4KY1879    | Cloud Computing      | [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/) |
 | Ni Putu Sri Indah Damayanti   | C014B4KX3350    | Cloud Computing      | [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/) |
