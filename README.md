@@ -1,4 +1,4 @@
-![Deskripsi Gambar](./assets/PeMuda.jpg)
+<img src="./assets/PeMuda.png" alt="Deskripsi Gambar" width="500" height="300" >
 
 # About this Capstone Project
 
