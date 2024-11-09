@@ -16,13 +16,13 @@ PeMuda is built as a requirement for Bangkit 2024's Product-based Capstone Proje
 
 | Member                        | Student ID      | Path                | Contacts                    |
 |-------------------------------|-----------------|---------------------|-----------------------------|
-| I Gede Made Rapriananta Pande | M014B4KY1814    | Machine Learning     | [LinkedIn](https://www.linkedin.com/)  [GitHub](https://github.com/MadRapz) |
-| I Gede Satya Ariya Putra Sangjaya | M014B4KY1817 | Machine Learning     | [LinkedIn](https://www.linkedin.com/)  [GitHub](https://github.com/Satyaaps) |
-| Syelvia Julianti             | M014B4KX4269    | Machine Learning     | [LinkedIn](https://www.linkedin.com/)  [GitHub](https://github.com/syelvia) |
-| I Putu Gede Surya Pratama    | C014B4KY1879    | Cloud Computing      | [LinkedIn](https://www.linkedin.com/)  [GitHub](https://github.com/2205551032-Surya) |
-| Ni Putu Sri Indah Damayanti   | C014B4KX3350    | Cloud Computing      | [LinkedIn](https://www.linkedin.com/)  [GitHub](https://github.com/IndahDamayanti) |
-| Athaya Juliant Purnama       | A014B4KY0709    | Mobile Development   | [LinkedIn](https://www.linkedin.com/)  [GitHub](https://github.com/athayapurnama02) |
-| Adriant Satrio Putra         | A014B4KY0135    | Mobile Development   | [LinkedIn](https://www.linkedin.com/)  [GitHub](https://github.com/adriant2) |
+| I Gede Made Rapriananta Pande | M014B4KY1814    | Machine Learning     | [GitHub](https://github.com/MadRapz) |
+| I Gede Satya Ariya Putra Sangjaya | M014B4KY1817 | Machine Learning     | [GitHub](https://github.com/Satyaaps) |
+| Syelvia Julianti             | M014B4KX4269    | Machine Learning     | [[GitHub](https://github.com/syelvia) |
+| I Putu Gede Surya Pratama    | C014B4KY1879    | Cloud Computing      | [GitHub](https://github.com/2205551032-Surya) |
+| Ni Putu Sri Indah Damayanti   | C014B4KX3350    | Cloud Computing      | [GitHub](https://github.com/IndahDamayanti) |
+| Athaya Juliant Purnama       | A014B4KY0709    | Mobile Development   | [GitHub](https://github.com/athayapurnama02) |
+| Adriant Satrio Putra         | A014B4KY0135    | Mobile Development   | [GitHub](https://github.com/adriant2) |
 
 
 ### Repositories of all the Cohorts
