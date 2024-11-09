@@ -31,4 +31,4 @@ PeMuda is built as a requirement for Bangkit 2024's Product-based Capstone Proje
 |----------------------|-----------------------------|
 | Mobile Development    | [GitHub](https://github.com/) |
 | Machine Learning      | [GitHub](https://github.com/) |
-| Cloud Computing       | [GitHub](https://github.com/) |
+| Cloud Computing       | [GitHub](https://github.com/2205551032-Surya/CloudComputing) |
