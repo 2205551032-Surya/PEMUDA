@@ -14,6 +14,7 @@ PeMuda is built as a requirement for Bangkit 2024's Product-based Capstone Proje
 ### Design Figma
 
 [Figma](https://www.figma.com/design/JFaEJtDeiicLw2qXf4NIJG/CAPSTONE-PROJECT!?node-id=0-1&m=dev&t=95pN8c241eR2rgve-1)
+[Design Database](https://drive.google.com/file/d/1-lFNpZkEQUc-dymUHK-iluWzb-792zMw/view?usp=sharing)
 
 ### Team Members
 
