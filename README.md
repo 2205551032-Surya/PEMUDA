@@ -30,11 +30,3 @@ PeMuda is built as a requirement for Bangkit 2024's Product-based Capstone Proje
 | Athaya Juliant Purnama       | A014B4KY0709    | Mobile Development   | [GitHub](https://github.com/athayapurnama02) |
 | Adriant Satrio Putra         | A014B4KY0135    | Mobile Development   | [GitHub](https://github.com/adriant2) |
 
-
-### Repositories of all the Cohorts
-
-| Paths                | Link                        |
-|----------------------|-----------------------------|
-| Mobile Development    | [GitHub](https://github.com/athayapurnama02/PeMuda-MD-repo) |
-| Machine Learning      | [GitHub](https://github.com/MadRapz/Machine-Learning) |
-| Cloud Computing       | [GitHub](https://github.com/2205551032-Surya/CloudComputing) |
