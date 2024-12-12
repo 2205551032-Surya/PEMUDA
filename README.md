@@ -11,11 +11,6 @@ The need for a platform connecting job seekers and employers has never been more
 
 PeMuda is built as a requirement for Bangkit 2024's Product-based Capstone Project. This repository is built as an all-in-one access for every repository used by this project (links to each repo are included below).
 
-### Design Figma
-
-[Figma](https://www.figma.com/design/JFaEJtDeiicLw2qXf4NIJG/CAPSTONE-PROJECT!?node-id=0-1&m=dev&t=95pN8c241eR2rgve-1)
-
-[Design Database](https://drive.google.com/file/d/1-lFNpZkEQUc-dymUHK-iluWzb-792zMw/view?usp=sharing)
 
 ### Team Members
 
@@ -30,3 +25,10 @@ PeMuda is built as a requirement for Bangkit 2024's Product-based Capstone Proje
 | Athaya Juliant Purnama       | A014B4KY0709    | Mobile Development   | [GitHub](https://github.com/athayapurnama02) |
 | Adriant Satrio Putra         | A014B4KY0135    | Mobile Development   | [GitHub](https://github.com/adriant2) |
 
+
+
+### Design Figma
+
+[Figma](https://www.figma.com/design/JFaEJtDeiicLw2qXf4NIJG/CAPSTONE-PROJECT!?node-id=0-1&m=dev&t=95pN8c241eR2rgve-1)
+
+[Design Database](https://drive.google.com/file/d/1-lFNpZkEQUc-dymUHK-iluWzb-792zMw/view?usp=sharing)
