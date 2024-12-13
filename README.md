@@ -1,5 +1,3 @@
-<img src="./assets/PeMuda.png" alt="Deskripsi Gambar" width="500" height="300" >
-
 # About this Capstone Project
 
 Unemployment is a problem exacerbated by global economic changes, limited access to information, skill mismatches, and the challenges of job locations far from home. **PEMUDA** is here to address these issues by providing a job recommendation system tailored to users' skills and areas of residence. Managed using dummy data, PEMUDA focuses on regencies in Bali, offering job recommendations based on skills and location.
