@@ -2,7 +2,7 @@
 
 # About this Capstone Project
 
-Pengangguran merupakan masalah yang diperburuk oleh perubahan ekonomi global, keterbatasan akses informasi, ketidaksesuaian keterampilan, dan tantangan lokasi kerja yang jauh dari rumah. PEMUDA hadir untuk mengatasi masalah ini dengan menyediakan sistem rekomendasi pekerjaan yang disesuaikan dengan keterampilan dan area tempat tinggal pengguna. Dikelola menggunakan data dummy, PEMUDA berfokus pada kabupaten di Bali, memberikan rekomendasi pekerjaan berdasarkan keterampilan dan lokasi.
+Unemployment is a problem exacerbated by global economic changes, limited access to information, skill mismatches, and the challenges of job locations far from home. **PEMUDA** is here to address these issues by providing a job recommendation system tailored to users' skills and areas of residence. Managed using dummy data, PEMUDA focuses on regencies in Bali, offering job recommendations based on skills and location.
 
 ## Bangkit Product-based Capstone Project
 
@@ -21,9 +21,3 @@ PeMuda is built as a requirement for Bangkit 2024's Product-based Capstone Proje
 | Ni Putu Sri Indah Damayanti   | C014B4KX3350    | Cloud Computing      | [GitHub](https://github.com/IndahDamayanti) |
 | Athaya Juliant Purnama       | A014B4KY0709    | Mobile Development   | [GitHub](https://github.com/athayapurnama02) |
 | Adriant Satrio Putra         | A014B4KY0135    | Mobile Development   | [GitHub](https://github.com/adriant2) |
-
-
-
-### Design Figma
-
-[Figma](https://www.figma.com/design/JFaEJtDeiicLw2qXf4NIJG/CAPSTONE-PROJECT!?node-id=0-1&m=dev&t=95pN8c241eR2rgve-1)
