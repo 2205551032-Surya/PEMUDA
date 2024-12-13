@@ -1,0 +1,47 @@
+{
+	"info": {
+		"_postman_id": "7808381b-138a-41b5-9906-a110142e7107",
+		"name": "Predict Model",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "39428506"
+	},
+	"item": [
+		{
+			"name": "Predict Copy",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"skill_input\": \"php\",\r\n    \"regency_input\": \"Denpasar\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://34.101.35.242:5000/predict",
+					"protocol": "http",
+					"host": [
+						"34",
+						"101",
+						"35",
+						"242"
+					],
+					"port": "5000",
+					"path": [
+						"predict"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
