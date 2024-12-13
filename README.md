@@ -2,10 +2,7 @@
 
 # About this Capstone Project
 
-This project aims to develop a Youth Employment Application that helps job seekers find positions that match their skills and preferences, addressing the urgent issue of unemployment. Unemployment has become a major concern for governments, businesses, and communities, especially worsened by recent global economic shifts that have led to job losses and increased competition for available positions. The application will provide a platform for job seekers to efficiently search for job openings, including both permanent and daily positions, with features such as user and employer ratings to build trust.
-
-
-The need for a platform connecting job seekers and employers has never been more critical. The pandemic has highlighted the challenges faced by educated workers, with unemployment rates rising from 6.69% in 2020 to 8.55% in 2021. This application will streamline the job search process, making it easier for candidates to find work and for employers to identify suitable candidates quickly. Ultimately, our goal is to reduce unemployment rates and contribute positively to economic growth by facilitating effective matches between job seekers and employers.
+Pengangguran merupakan masalah yang diperburuk oleh perubahan ekonomi global, keterbatasan akses informasi, ketidaksesuaian keterampilan, dan tantangan lokasi kerja yang jauh dari rumah. PEMUDA hadir untuk mengatasi masalah ini dengan menyediakan sistem rekomendasi pekerjaan yang disesuaikan dengan keterampilan dan area tempat tinggal pengguna. Dikelola menggunakan data dummy, PEMUDA berfokus pada kabupaten di Bali, memberikan rekomendasi pekerjaan berdasarkan keterampilan dan lokasi.
 
 ## Bangkit Product-based Capstone Project
 
@@ -30,5 +27,3 @@ PeMuda is built as a requirement for Bangkit 2024's Product-based Capstone Proje
 ### Design Figma
 
 [Figma](https://www.figma.com/design/JFaEJtDeiicLw2qXf4NIJG/CAPSTONE-PROJECT!?node-id=0-1&m=dev&t=95pN8c241eR2rgve-1)
-
-[Design Database](https://drive.google.com/file/d/1-lFNpZkEQUc-dymUHK-iluWzb-792zMw/view?usp=sharing)
