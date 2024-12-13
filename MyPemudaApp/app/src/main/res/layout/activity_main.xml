@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#FFFFFF"
+    android:padding="16dp">
+
+    <!-- Icon -->
+    <ImageView
+        android:id="@+id/imgLogo"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/ic_logo"
+        android:contentDescription="Logo"
+        android:layout_marginBottom="16dp" />
+
+    <!-- Title -->
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pemuda"
+        android:textColor="#40513B"
+        android:textSize="24sp"
+        android:fontFamily="@font/trueno_bd"
+        android:layout_marginBottom="16dp" />
+
+    <!-- Subtitle -->
+    <TextView
+        android:id="@+id/tvSubtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ayo mulai karirmu!"
+        android:textColor="#40513B"
+        android:textSize="16sp"
+        android:fontFamily="@font/trueno_rg"
+        android:layout_marginBottom="32dp" />
+
+    <!-- Button -->
+    <Button
+        android:id="@+id/btnMulai"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#40513B"
+        android:text="Mulai"
+        android:textColor="#EDF1D6"
+        android:fontFamily="@font/trueno_rg"
+        android:drawableEnd="@drawable/ic_arrow_forward"
+        android:drawablePadding="8dp"
+        android:paddingHorizontal="24dp"
+        android:paddingVertical="8dp"
+        android:layout_marginTop="16dp" />
+
+</LinearLayout>

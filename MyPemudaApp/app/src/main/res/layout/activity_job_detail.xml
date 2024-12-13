@@ -1,0 +1,150 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F8F8F8">
+
+    <!-- Back Button -->
+    <ImageView
+        android:id="@+id/imgBack"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:src="@drawable/ic_back"
+        android:contentDescription="Back Button" />
+
+    <!-- Scrollable Content -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/imgBack"
+        android:layout_marginTop="16dp"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- Company Logo -->
+            <ImageView
+                android:id="@+id/imgCompanyLogo"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="16dp"
+                android:src="@drawable/ic_company_logo" />
+
+            <!-- Job Title -->
+            <TextView
+                android:id="@+id/tvJobTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="Product Manager"
+                android:textColor="#40513B"
+                android:textSize="20sp"
+                android:fontFamily="@font/trueno_sbd"
+                android:layout_marginBottom="8dp" />
+
+            <!-- Company and Location -->
+            <TextView
+                android:id="@+id/tvCompanyLocation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="Google • California"
+                android:textColor="#666666"
+                android:textSize="14sp"
+                android:layout_marginBottom="16dp" />
+
+            <!-- Job Description -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Job Description"
+                android:textColor="#40513B"
+                android:textSize="16sp"
+                android:fontFamily="@font/trueno_sbd"
+                android:layout_marginBottom="4dp" />
+
+            <TextView
+                android:id="@+id/tvJobDescription"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="This is the job description."
+                android:textColor="#000000"
+                android:textSize="14sp"
+                android:layout_marginBottom="16dp" />
+
+            <!-- Salary -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Website"
+                android:textColor="#40513B"
+                android:textSize="16sp"
+                android:fontFamily="@font/trueno_sbd"
+                android:layout_marginBottom="4dp" />
+
+            <TextView
+                android:id="@+id/tvWebsite"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="15K/Mo"
+                android:textColor="#000000"
+                android:textSize="14sp"
+                android:layout_marginBottom="16dp" />
+
+            <!-- Responsibilities -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Industry"
+                android:textColor="#40513B"
+                android:textSize="16sp"
+                android:fontFamily="@font/trueno_sbd"
+                android:layout_marginBottom="4dp" />
+
+            <TextView
+                android:id="@+id/tvIndustry"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="These are the responsibilities."
+                android:textColor="#000000"
+                android:textSize="14sp"
+                android:layout_marginBottom="16dp" />
+
+            <!-- Required Skills -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Employees"
+                android:textColor="#40513B"
+                android:textSize="16sp"
+                android:fontFamily="@font/trueno_sbd"
+                android:layout_marginBottom="4dp" />
+
+            <TextView
+                android:id="@+id/tvEmployees"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="These are the required skills."
+                android:textColor="#000000"
+                android:textSize="14sp"
+                android:layout_marginBottom="16dp" />
+
+            <!-- Apply Button -->
+            <Button
+                android:id="@+id/btnApply"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="APPLY"
+                android:backgroundTint="#40513B"
+                android:textColor="#FFFFFF" />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>
